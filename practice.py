@@ -121,13 +121,13 @@
 #         print("0",end="")
 #     print(i)
 
-# a=[1,2,3,4,5]
-# b=[]
-# c=len(a)-1
-# while c>=0:
-#     b.append(a[c])
-#     c=c-1
-# print(b)
+a=[1,2,3,4,5]
+b=[]
+c=len(a)-1
+while c>=0:
+    b.append(a[c])
+    c=c-1
+print(b)
 
 
 
